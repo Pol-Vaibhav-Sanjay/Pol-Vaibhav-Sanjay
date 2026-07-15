@@ -11,14 +11,11 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-satpute-29076b272/" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-pol-5a61082b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vedantsatpute007@gmail.com">
+  <a href="mailto:polvaibhav878865@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vedant-dev-ops-portfolio-gx11.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -31,8 +28,7 @@ I'm a **DevOps / Cloud Engineer** focused on building reliable, secure, and scal
 - 🔭 Currently working on: Multi-cloud infrastructure automation & CI/CD pipeline optimization
 - 🌱 Currently exploring: DevSecOps practices (SAST/DAST, shift-left security) and SRE principles
 - 🤝 Open to collaborating on: Cloud infrastructure, Kubernetes, and automation projects
-- 📫 Reach me at: **vedantsatpute007@gmail.com**
-- 🌐 Portfolio: **[vedant-dev-ops-portfolio-gx11.vercel.app](https://vedant-dev-ops-portfolio-gx11.vercel.app)**
+- 📫 Reach me at: **polvaibhav878865@gmail.com**
 
 ---
 
@@ -54,28 +50,7 @@ I'm a **DevOps / Cloud Engineer** focused on building reliable, secure, and scal
 | ![](https://img.shields.io/badge/Monitoring-F57C00?style=flat-square) | ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
 | ![](https://img.shields.io/badge/Scripting-455A64?style=flat-square) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vedant-satpute-29076b272/" target="_blank">LinkedIn</a> •
-  <a href="mailto:vedantsatpute007@gmail.com">Email</a> •
-  <a href="https://vedant-dev-ops-portfolio-gx11.vercel.app" target="_blank">Portfolio</a>
-</p>
-
-<p align="center"><i>Building resilient systems, one pipeline at a time. ⚙️</i></p>
-
-<p align="center">
-  <b>"Automate Everything. Monitor Everything. Improve Continuously."</b><br/>
-  ⭐ Building reliable cloud infrastructure one deployment at a time
-</p>
-
-
-
-
-
-
+--
 <!--
 **vedant-07-git/vedant-07-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
