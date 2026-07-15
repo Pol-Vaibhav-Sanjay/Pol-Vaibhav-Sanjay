@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1e3c72,100:6a3093&height=250&section=header&text=Vedant%20Satpute&fontSize=80&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20SRE&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1e3c72,100:6a3093&height=250&section=header&text=Vaibhav%20Pol&fontSize=80&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20SRE&descAlignY=58&descSize=20" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pol</h1>
